@@ -1,0 +1,19 @@
+{
+  "app_version": 1,
+  "games": [
+    {
+      "id": "snake",
+      "name": "Snake Game",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/waqar420/king-offline-games/main/games/snake/index.html",
+      "icon": "snake.png"
+    },
+    {
+      "id": "ludo",
+      "name": "Ludo King",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/waqar420/king-offline-games/main/games/ludo/index.html",
+      "icon": "ludo.png"
+    }
+  ]
+}
